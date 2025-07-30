@@ -455,7 +455,7 @@ static const GpuNameStringMap GpuNameMap[] = {
     {"gfx1201", "Navi48", &setGfx1201Info}, // gfx1201
 #endif
 #if LLPC_BUILD_NAVI44
-    {"gfx1200", "Nav44", &setGfx1200Info}, // gfx1200
+    {"gfx1200", "Navi44", &setGfx1200Info}, // gfx1200
 #endif
 };
 
